@@ -1,2 +1,3 @@
-# certificates
-Certificates and Trainings version controlled storage
+# Certificates
+
+Version-controlled storage for Certificates of Courses and Training completion
